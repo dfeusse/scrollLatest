@@ -1,0 +1,65 @@
+/* user page */
+.profilepic {
+	float: left;
+	width: 300px;
+	height: 300px;
+}
+
+/* container
+	carousel-caption       only top spacing matters */
+
+.mainwrapper {
+	margin-top: 150px;
+	}
+
+.footerdivider {
+	margin-top: 200px;
+}
+
+.profilenavbar {
+	webkit-box-shadow: none;
+	moz-box-shadow: none;
+	box-shadow: none;
+	fill: red;
+
+	margin-top: 50px;
+}
+
+@navbarBackground: "red";
+
+@navbarBackgroundHighlight: "green";
+
+.friendheader {
+	float:left;
+	margin-top: 40px;
+}
+
+.usernavcontent {
+	margin-top: 40px;
+}
+
+.fi {
+	float:left;
+	width: 40px;
+	height: 40px;
+	margin:5px;
+}
+
+
+/* database page */
+
+.searchbox {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+.bookinfo {
+	margin-left: 50px;
+}
+
+.bookcover {
+	float: left;
+	width: 300px;
+	height: 425px;
+}
